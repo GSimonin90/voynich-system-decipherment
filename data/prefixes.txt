@@ -1,0 +1,13 @@
+# Voynich Language Prefixes
+# Morpheme | Frequency
+====================
+o          | 2210
+ch         | 1673
+qo         | 1103
+sh         | 844
+ok         | 653
+d          | 614
+s          | 535
+da         | 474
+c          | 440
+q          | 166

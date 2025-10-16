@@ -1,0 +1,13 @@
+# Voynich Language Suffixes
+# Morpheme | Frequency
+====================
+y          | 2088
+dy         | 1627
+in         | 1471
+r          | 1015
+ey         | 979
+l          | 802
+ar         | 782
+ol         | 706
+m          | 657
+n          | 127
