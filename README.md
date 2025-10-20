@@ -76,7 +76,7 @@ This project has resulted in **four** publications which build upon each other:
 
 ## Acknowledgements
 
-This research was conducted independently. The author acknowledges the use of open-access computational tools and datasets. Special thanks to collaborative AI frameworks (ChatGPT, Gemini, Grok) used solely as research assistants for code generation, data visualization, structural editing, and critical feedback during the **Final Test** validation phase. The human author defined all research hypotheses, directed experimental phases, executed and debugged all code, and is solely responsible for the final interpretation of the results.
+This research was conducted in collaboration with Gemini, a large language model from Google. The human author defined all research hypotheses, directed the experimental phases, executed and debugged all code, and is solely responsible for the final interpretation of the results. The AI served as advanced tool for code generation, and structuring of the research papers.
 
 ---
 
