@@ -25,7 +25,7 @@ This project has resulted in **four** publications which build upon each other:
 
 **### Paper 4 (Final Test): Validation, Application, and Extended Analysis**
 * **Description:** This validation phase ("Final Test") rigorously tests the system using statistical linguistics (Entropy, Zipf's Law), syntactic analysis (SVO asymmetry), thematic analysis (Lift Score), content benchmarking (f78r, process signatures), predictive translation (f57v), and comparative analysis (Copiale Cipher, Sefer Yetzirah).
-* **Publication:** Simonin, G. (2025d). Zenodo. [![DOI](https://zenodo.org/badge/DOI/YOUR_PAPER_IV_DOI.svg)](https://doi.org/YOUR_PAPER_IV_DOI) <-- *Aggiungi il DOI Zenodo del Paper 4 qui*
+* **Publication:** Simonin, G. (2025d). Zenodo. [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17399970-blue)](https://doi.org/10.5281/zenodo.17399970)
 
 ---
 
