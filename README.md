@@ -23,7 +23,7 @@ This project has resulted in **four** publications which build upon each other:
 * **Description:** This paper details the complete logical syntax (Connectors), morphology (Affixes), and validates the system against Currier's Dialects.
 * **Publication:** Simonin, G. (2025c). Zenodo. [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17371265-blue)](https://doi.org/10.5281/zenodo.17371265)
 
-**### Paper 4 (Final Test): Validation, Application, and Extended Analysis**
+### Paper 4 (Final Test): Validation, Application, and Extended Analysis**
 * **Description:** This validation phase ("Final Test") rigorously tests the system using statistical linguistics (Entropy, Zipf's Law), syntactic analysis (SVO asymmetry), thematic analysis (Lift Score), content benchmarking (f78r, process signatures), predictive translation (f57v), and comparative analysis (Copiale Cipher, Sefer Yetzirah).
 * **Publication:** Simonin, G. (2025d). Zenodo. [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17399970-blue)](https://doi.org/10.5281/zenodo.17399970)
 
