@@ -1,0 +1,67 @@
+================================================================================
+       VOYNICH SYNTAX PATTERN ANALYSIS - V2 (with VIOLATION role)
+================================================================================
+
+Analyzed 31093 words, 31092 bigrams, 31091 trigrams.
+Focus: How do 'VIOLATION' words (potential compound roots) behave syntactically?
+
+----------------------------------------
+  Top 20 Most Frequent Trigram Patterns:
+----------------------------------------
+  CONCEPT-CONCEPT-CONCEPT        : 3513   occurrences (11.30%)
+  SUBJECT-SUBJECT-SUBJECT        : 2388   occurrences (7.68%)
+  CONCEPT-CONCEPT-SUBJECT        : 2101   occurrences (6.76%)
+  SUBJECT-CONCEPT-CONCEPT        : 2065   occurrences (6.64%)
+  CONCEPT-SUBJECT-CONCEPT        : 1886   occurrences (6.07%)
+  CONCEPT-SUBJECT-SUBJECT        : 1869   occurrences (6.01%)
+  SUBJECT-SUBJECT-CONCEPT        : 1830   occurrences (5.89%)
+  SUBJECT-CONCEPT-SUBJECT        : 1653   occurrences (5.32%)
+  OBJECT-CONCEPT-CONCEPT         : 1185   occurrences (3.81%)
+  CONCEPT-OBJECT-CONCEPT         : 1137   occurrences (3.66%)
+  CONCEPT-CONCEPT-OBJECT         : 1128   occurrences (3.63%)
+  SUBJECT-OBJECT-SUBJECT         : 808    occurrences (2.60%)
+  SUBJECT-OBJECT-CONCEPT         : 804    occurrences (2.59%)
+  CONCEPT-OBJECT-SUBJECT         : 775    occurrences (2.49%)
+  SUBJECT-SUBJECT-OBJECT         : 764    occurrences (2.46%)
+  OBJECT-SUBJECT-CONCEPT         : 752    occurrences (2.42%)
+  OBJECT-SUBJECT-SUBJECT         : 734    occurrences (2.36%)
+  SUBJECT-CONCEPT-OBJECT         : 731    occurrences (2.35%)
+  CONCEPT-SUBJECT-OBJECT         : 725    occurrences (2.33%)
+  OBJECT-CONCEPT-SUBJECT         : 723    occurrences (2.33%)
+
+----------------------------------------
+  Top 20 Most Frequent Bigram Patterns:
+----------------------------------------
+  CONCEPT-CONCEPT                : 6838   occurrences (21.99%)
+  SUBJECT-SUBJECT                : 5011   occurrences (16.12%)
+  CONCEPT-SUBJECT                : 4519   occurrences (14.53%)
+  SUBJECT-CONCEPT                : 4490   occurrences (14.44%)
+  OBJECT-CONCEPT                 : 2427   occurrences (7.81%)
+  CONCEPT-OBJECT                 : 2381   occurrences (7.66%)
+  SUBJECT-OBJECT                 : 1927   occurrences (6.20%)
+  OBJECT-SUBJECT                 : 1925   occurrences (6.19%)
+  OBJECT-OBJECT                  : 959    occurrences (3.08%)
+  CONCEPT-VERB                   : 180    occurrences (0.58%)
+  VERB-CONCEPT                   : 163    occurrences (0.52%)
+  SUBJECT-VERB                   : 81     occurrences (0.26%)
+  VERB-OBJECT                    : 78     occurrences (0.25%)
+  VERB-SUBJECT                   : 54     occurrences (0.17%)
+  OBJECT-VERB                    : 34     occurrences (0.11%)
+  VERB-VERB                      : 25     occurrences (0.08%)
+
+
+================================================================================
+       BEHAVIOR OF 'VIOLATION' WORDS
+================================================================================
+
+Common patterns involving VIOLATION words:
+
+--- Bigrams with VIOLATION (Top 10) ---
+
+--- Trigrams with VIOLATION (Top 10) ---
+
+Analysis: Examine if 'VIOLATION' words appear primarily in positions typical of CONCEPTs (e.g., before VERBs, after VERBs, alongside other CONCEPTs) rather than behaving like VERBs or SUBJECTs/OBJECTs themselves.
+
+================================================================================
+                         END OF REPORT
+================================================================================

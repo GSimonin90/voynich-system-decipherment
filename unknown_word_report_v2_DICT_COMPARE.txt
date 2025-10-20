@@ -1,0 +1,67 @@
+================================================================================
+     ANALYSIS OF UNKNOWN WORDS (v2 - Dictionary Comparison)
+================================================================================
+
+Scanned file: 'voynich_ready_nlp.txt'
+Compared against: Dictionary v3.1 (63 known roots)
+Total 'truly unknown' tokens found: 263
+Unique 'truly unknown' word types: 58
+
+--- Top 50 Most Frequent Truly Unknown Words ---
+(Words containing known roots, likely root+affix, are excluded)
+
+  - o : 61 occurrences
+  - am : 52 occurrences
+  - qo : 26 occurrences
+  - om : 14 occurrences
+  - cham : 13 occurrences
+  - chan : 10 occurrences
+  - m : 8 occurrences
+  - g : 7 occurrences
+  - x : 5 occurrences
+  - an : 3 occurrences
+  - v : 3 occurrences
+  - c : 3 occurrences
+  - ? : 3 occurrences
+  - ch : 3 occurrences
+  - cha : 2 occurrences
+  - n : 2 occurrences
+  - cham<$> : 2 occurrences
+  - am<$> : 2 occurrences
+  - ?<@192> : 2 occurrences
+  - e : 2 occurrences
+  - ?<@140> : 2 occurrences
+  - q : 2 occurrences
+  - ?<@252> : 1 occurrences
+  - ?<@253> : 1 occurrences
+  - oeeen : 1 occurrences
+  - g<$> : 1 occurrences
+  - amg : 1 occurrences
+  - co : 1 occurrences
+  - ?<@153> : 1 occurrences
+  - amam : 1 occurrences
+  - q<@q">o : 1 occurrences
+  - <1->o : 1 occurrences
+  - <4->e : 1 occurrences
+  - <5->?<@140> : 1 occurrences
+  - ?<@164> : 1 occurrences
+  - o->qo : 1 occurrences
+  - oc : 1 occurrences
+  - a : 1 occurrences
+  - vo : 1 occurrences
+  - ?<@172> : 1 occurrences
+  - ?<@170> : 1 occurrences
+  - ?<@171> : 1 occurrences
+  - ?<@195> : 1 occurrences
+  - em : 1 occurrences
+  - echa : 1 occurrences
+  - ???? : 1 occurrences
+  - oaan : 1 occurrences
+  - oqo : 1 occurrences
+  - om<$> : 1 occurrences
+  - omam : 1 occurrences
+
+
+================================================================================
+                         END OF REPORT
+================================================================================

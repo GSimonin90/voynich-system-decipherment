@@ -1,0 +1,55 @@
+===== Predictive Translation (Advanced Synthesizer v5) of Folio: f57v =====
+Using expanded dictionary and advanced pattern handling.
+
+--- Paragraph 1 (Global Index 1449) ---
+Original Cleaned: dairol
+Translation:      [Concept Chain: Essence/Distillate (Mercury)]
+--------------------------------------------------------------------------------
+--- Paragraph 2 (Global Index 1450) ---
+Original Cleaned: v sa l y soeos vs ar okees o d socfchees lg sos okey defo fo rkedam sh ofol sar ddal yty s y daiis oteo dsh dy dkals ety fchcho a r ofaiin dal karody ar okchy daram qokar okal okal d o l shkeal dydas o k sher saiin
+Translation:      The v, subtle property/emanation, [so]-celestial quality, quality/property/aspect, the current-state ees, o, [socf]-substance (generic) the current-state e and the [of]-potency/danger (mars), [s]-quality/property/aspect, [dd]-igneous/luminous quality yt and the subtle property/emanation, [d]-vital principle (jupiter), [o]-harmonic principle (venus), [dk]-igneous/luminous quality root/origin and the [d]-igneous/luminous quality karo and the quality/property/aspect the current-state ch is fixed in the rkeda, the [FCH]-Substance (Specific), a ofai, the dara, the the specific kar, (High) the current-state Igneous/Luminous Quality, o (x2), the prepared keal, [DY]-Vital Principle (Essence of), the prepared er sai.
+--------------------------------------------------------------------------------
+--- Paragraph 3 (Global Index 1451) ---
+Original Cleaned: o<->l<->d<->r<->v<->x<->k<->k<->f<->?<->t<->r<->?<->?<->y<->c<->?<-><|>o<->l<->d<->r<->v<->x<->k<->m<->f<->?<->t<->r<->?<->?<->y<->c<->?<-><|>o<->l<->d<->r<->v<->x<->k<->k<->p<->?<->t<->r<->?<->?<->y<->c<->?<-><|>o<->l<->d<->r<->v<->x<->k<->k<->p<->?<->t<->r<->?<->?<->y<->c<->r<->n
+Translation:      [Sequence Listing: [Sequence: o<->l<->d<->r<->v<->x<->k<->k<->f<->?<->t<->r<->?<->?<->y<->c<->?<-><|>o<->l<->d<->r<->v<->x<->k<->m<->f<->?<->t<->r<->?<->?<->y<->c<->?<-><|>o<->l<->d<->r<->v<->x<->k<->k<->p<->?<->t<->r<->?<->?<->y<->c<->?<-><|>o<->l<->d<->r<->v<->x<->k<->k<->p<->?<->t<->r<->?<->?<->y<->c<->r<->n]]
+--------------------------------------------------------------------------------
+--- Paragraph 4 (Global Index 1452) ---
+Original Cleaned: daiin otey ofchey shes o d okchod o l okeeol dkedar of aros s y chedaiin k echty x doedal vo tchor cs tedas dal ? daiin aiin otyl daro v
+Translation:      The the active/heated e and the ofch and the echt is the dai, the the prepared es, o (x2), the current-state chod, the current-state eeol, [DKED]-Quality/Property/Aspect, [A]-Essence/Distillate (Mercury), Subtle Property/Emanation [CH]-edai, the x, [DOED]-Igneous/Luminous Quality, vo, [T]-Substance (Specific), [TE]-Vital Principle (Essence of), [D]-Igneous/Luminous Quality, ? dai, the the active/heated yl, [DA]-Essence/Distillate (Mercury), v ai.
+--------------------------------------------------------------------------------
+--- Paragraph 5 (Global Index 1453) ---
+Original Cleaned: o v l r m aiin d ? c f s y l k x l r ? ar o s ? t l s d y ar teodar otodar sheky otchody xsl
+Translation:      The ? (x3), c, subtle property/emanation (x2), x, quality/property/aspect (x2), o, harmonic principle (venus), the active/heated odar the prepared group/set and the otcho is the o, v, m ai.
+--------------------------------------------------------------------------------
+--- Paragraph 6 (Global Index 1454) ---
+Original Cleaned: olkchdal
+Translation:      [Concept Chain: Structuring Principle (Saturn)]
+--------------------------------------------------------------------------------
+--- Paragraph 7 (Global Index 1455) ---
+Original Cleaned: oparairdly
+Translation:      [Subject focus: The oparairdl]
+--------------------------------------------------------------------------------
+--- Paragraph 8 (Global Index 1456) ---
+Original Cleaned: otardaly
+Translation:      [Subject focus: The the active/heated ardal]
+--------------------------------------------------------------------------------
+--- Paragraph 9 (Global Index 1457) ---
+Original Cleaned: otodarod
+Translation:      [Concept Chain: odarod]
+--------------------------------------------------------------------------------
+--- Paragraph 10 (Global Index 1458) ---
+Original Cleaned: oralaror
+Translation:      [Concept Chain: Essence/Distillate (Mercury)]
+--------------------------------------------------------------------------------
+--- Paragraph 11 (Global Index 1459) ---
+Original Cleaned: okchoy
+Translation:      [Subject focus: The the current-state substance (specific)]
+--------------------------------------------------------------------------------
+--- Paragraph 12 (Global Index 1460) ---
+Original Cleaned: ocfhor okear
+Translation:      [Concept Chain: Cycle/Cosmos, ear]
+--------------------------------------------------------------------------------
+--- Paragraph 13 (Global Index 1461) ---
+Original Cleaned: ackaldy
+Translation:      [Subject focus: The ackal]
+--------------------------------------------------------------------------------

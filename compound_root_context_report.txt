@@ -1,0 +1,150 @@
+================================================================================
+       CONTEXT ANALYSIS REPORT - COMPOUND ROOTS (v1)
+================================================================================
+Analyzed context for 20 potential compound roots.
+
+
+--- Compound Root: 'qoky' ---
+  Hypothesized Meaning: Specific Fixation/Process
+  Total Occurrences: 119
+  Dominant Section: Balneological (55 times)
+  Most Common Preceding (3 words, min freq 2): 'shedy' (12), 'ol' (11), 'qokeedy' (9), 'qokedy' (9), 'chedy' (8)
+  Most Common Succeeding (3 words, min freq 2): 'daiin' (11), 'chedy' (9), 'shedy' (9), 'chey' (5), 'qokaiin' (4)
+
+--- Compound Root: 'chdy' ---
+  Hypothesized Meaning: Defined Substance (Astro)
+  Total Occurrences: 105
+  Dominant Section: Herbal (38 times)
+  Most Common Preceding (3 words, min freq 2): 'chedy' (9), 'qokedy' (7), 'shedy' (7), 'daiin' (6), 'okedy' (5)
+  Most Common Succeeding (3 words, min freq 2): 'chedy' (8), 'okedy' (5), 'dar' (4), 'shedy' (4), 'or' (3)
+
+--- Compound Root: 'qoty' ---
+  Hypothesized Meaning: Specific Relation/Aspect (Proc)
+  Total Occurrences: 71
+  Dominant Section: Balneological (29 times)
+  Most Common Preceding (3 words, min freq 2): 'daiin' (4), 'sheol' (4), 'qotedy' (4), 'otedy' (4), 'shor' (3)
+  Most Common Succeeding (3 words, min freq 2): 'shedy' (6), 'cthy' (4), 'chy' (3), 'dy' (3), 'ol' (3)
+
+--- Compound Root: 'chody' ---
+  Hypothesized Meaning: Defined Substance/Class (Pharm)
+  Total Occurrences: 70
+  Dominant Section: Herbal (37 times)
+  Most Common Preceding (3 words, min freq 2): 'chol' (8), 'aiin' (4), 'dair' (3), 'y' (3), 'chedy' (3)
+  Most Common Succeeding (3 words, min freq 2): 'daiin' (7), 'chol' (4), 'dar' (3), 'cheol' (3), 'dy' (2)
+
+--- Compound Root: 'shody' ---
+  Hypothesized Meaning: Defined Prepared Substance
+  Total Occurrences: 39
+  Dominant Section: Herbal (19 times)
+  Most Common Preceding (3 words, min freq 2): 'daiin' (5), 'aiin' (3), 'sho' (2), 'sheeol' (2), 'qopchedy' (2)
+  Most Common Succeeding (3 words, min freq 2): 'daiin<-><plant>' (3), 's' (2), 'sho' (2), 'okaiin' (2), 'qokol' (2)
+
+--- Compound Root: 'qoteey' ---
+  Hypothesized Meaning: Specific Property (Recipe)
+  Total Occurrences: 37
+  Dominant Section: Recipes (21 times)
+  Most Common Preceding (3 words, min freq 2): 'dshedy' (3), 'qokeedy' (3), 'qoteeey' (2), 'qoteey' (2), 'daiin' (2)
+  Most Common Succeeding (3 words, min freq 2): 'shedy' (5), 'daiin' (4), 'sheey' (3), 'qokeey' (3), 'dar' (2)
+
+--- Compound Root: 'choky' ---
+  Hypothesized Meaning: Fixed Substance (Herbal)
+  Total Occurrences: 27
+  Dominant Section: Herbal (20 times)
+  Most Common Preceding (3 words, min freq 2): 'chol' (4), 'okchy' (2), 'qoto' (2), 'ykol' (2), 'daiin' (2)
+  Most Common Succeeding (3 words, min freq 2): 'chol' (4), 'shol' (2), 'cthy' (2), 'dy' (2), 'dam<-><plant>' (2)
+
+--- Compound Root: 'chos' ---
+  Hypothesized Meaning: Substantial Essence
+  Total Occurrences: 20
+  Dominant Section: Recipes (9 times)
+  Most Common Preceding (3 words, min freq 2): 'chol' (2), 'qokar' (2), 'qokeey' (2)
+  Most Common Succeeding (3 words, min freq 2): 'aiin' (3), 'keody' (2)
+
+--- Compound Root: 'okody' ---
+  Hypothesized Meaning: Defined Celestial State
+  Total Occurrences: 10
+  Dominant Section: Astrological (6 times)
+  Most Common Preceding (3 words, min freq 2): None frequent enough
+  Most Common Succeeding (3 words, min freq 2): 'oteey' (2)
+
+--- Compound Root: 'qotam' ---
+  Hypothesized Meaning: Specific Influence (Object)
+  Total Occurrences: 10
+  Dominant Section: Recipes (8 times)
+  Most Common Preceding (3 words, min freq 2): 'qokeeey' (2)
+  Most Common Succeeding (3 words, min freq 2): None frequent enough
+
+--- Compound Root: 'okees' ---
+  Hypothesized Meaning: Current Celestial State
+  Total Occurrences: 9
+  Dominant Section: Herbal (3 times)
+  Most Common Preceding (3 words, min freq 2): 'shedy' (2)
+  Most Common Succeeding (3 words, min freq 2): 'al' (3), 'o' (2)
+
+--- Compound Root: 'qotody' ---
+  Hypothesized Meaning: Specific Defined Class (Pharm)
+  Total Occurrences: 9
+  Dominant Section: Recipes (5 times)
+  Most Common Preceding (3 words, min freq 2): 'otol' (2), 'cheedy' (2)
+  Most Common Succeeding (3 words, min freq 2): 'ldy' (2)
+
+--- Compound Root: 'qokl' ---
+  Hypothesized Meaning: Specific Type of Solid
+  Total Occurrences: 9
+  Dominant Section: Recipes (6 times)
+  Most Common Preceding (3 words, min freq 2): 'chey' (2), 'shy' (2)
+  Most Common Succeeding (3 words, min freq 2): 'qokain' (2), 'chedy' (2), 'lkaiin' (2), 'chey' (2), 'qokar' (2)
+
+--- Compound Root: 'qokody' ---
+  Hypothesized Meaning: Specific Defined Fixed Element
+  Total Occurrences: 8
+  Dominant Section: Herbal (6 times)
+  Most Common Preceding (3 words, min freq 2): None frequent enough
+  Most Common Succeeding (3 words, min freq 2): 'qotedy' (2)
+
+--- Compound Root: 'shos' ---
+  Hypothesized Meaning: Prepared Essence
+  Total Occurrences: 7
+  Dominant Section: Herbal (5 times)
+  Most Common Preceding (3 words, min freq 2): None frequent enough
+  Most Common Succeeding (3 words, min freq 2): 'cheos' (2)
+
+--- Compound Root: 'otody' ---
+  Hypothesized Meaning: Defined Active State
+  Total Occurrences: 7
+  Dominant Section: Recipes (3 times)
+  Most Common Preceding (3 words, min freq 2): None frequent enough
+  Most Common Succeeding (3 words, min freq 2): None frequent enough
+
+--- Compound Root: 'shoky' ---
+  Hypothesized Meaning: Prepared Fixed Element
+  Total Occurrences: 6
+  Dominant Section: Herbal (4 times)
+  Most Common Preceding (3 words, min freq 2): None frequent enough
+  Most Common Succeeding (3 words, min freq 2): None frequent enough
+
+--- Compound Root: 'okchd' ---
+  Hypothesized Meaning: Defined Structural State
+  Total Occurrences: 6
+  Dominant Section: Recipes (3 times)
+  Most Common Preceding (3 words, min freq 2): None frequent enough
+  Most Common Succeeding (3 words, min freq 2): None frequent enough
+
+--- Compound Root: 'shok' ---
+  Hypothesized Meaning: Fixed Prepared Substance
+  Total Occurrences: 5
+  Dominant Section: Herbal (2 times)
+  Most Common Preceding (3 words, min freq 2): None frequent enough
+  Most Common Succeeding (3 words, min freq 2): 'chol' (2)
+
+--- Compound Root: 'qoly' ---
+  Hypothesized Meaning: Specific Potency/Agent
+  Total Occurrences: 4
+  Dominant Section: Balneological (4 times)
+  Most Common Preceding (3 words, min freq 2): None frequent enough
+  Most Common Succeeding (3 words, min freq 2): None frequent enough
+
+
+================================================================================
+                         END OF REPORT
+================================================================================

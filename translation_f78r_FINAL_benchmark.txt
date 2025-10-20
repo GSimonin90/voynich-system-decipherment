@@ -1,0 +1,191 @@
+===== Refined Translation (v4) of Folio: f78r =====
+Applying rules from Repetition, Context, and Grammar analysis.
+
+--- Paragraph 1 (Line 2141) ---
+Original:      tshedor shedy qopchedy qokedy dy qokol oky<-><figure>
+Translation:   [Fragment: The [t]-substance (prepared) the prepared shedy and the the specific product/result and the the specific qokol, the current-state oky<-><figure> the specific component/part of]
+--------------------------------------------------------------------------------
+--- Paragraph 2 (Line 2142) ---
+Original:      qokeedy qokedy shedy tchedy otar olkedy dam<-><figure>
+Translation:   [Fragment: The the specific qokeedy and the the specific component/part of and the the prepared shedy and the tchedy and the heat/energy/active principle, vital principle (essence of) olkedy]
+--------------------------------------------------------------------------------
+--- Paragraph 3 (Line 2143) ---
+Original:      qckhedy cheky dol chedy qokedy qokain olkedy<-><figure>
+Translation:   The qckhedy and the [ch]-group/set and the [d]-potency/danger (mars) [ch]-chedy and the the specific component/part of relates to the [OL]-Component/Part of the specific Action/Manifestation.
+--------------------------------------------------------------------------------
+--- Paragraph 4 (Line 2144) ---
+Original:      yteedy qotal dol shedy qokedar chcthhy otor dor or
+Translation:   [Fragment: The yteedy and the the specific qotal, [d]-potency/danger (mars) the prepared shedy and the the specific qokedar, heat/energy/active principle, [d]-cycle/cosmos, cycle/cosmos [ch]-chcthhy]
+--------------------------------------------------------------------------------
+--- Paragraph 5 (Line 2145) ---
+Original:      qokal otedy qokedy qokedy dal qokedy qokedy s kam<-><figure>
+Translation:   [Fragment: The the specific qokal the active/heated otedy and the (many/sequential) the specific component/part of and the [d]-igneous/luminous quality, action/manifestation (many/sequential) the specific component/part of]
+--------------------------------------------------------------------------------
+--- Paragraph 6 (Line 2146) ---
+Original:      dshedy qokedy okar qokedy shedy ykedy shedy qoky<-><figure>
+Translation:   [Fragment: The dshedy and the the specific component/part of and the the current-state quality/property/aspect the specific component/part of and the the prepared shedy and the ykedy and the the specific qoky<-><figure> the prepared shedy]
+--------------------------------------------------------------------------------
+--- Paragraph 7 (Line 2147) ---
+Original:      schedy keedy qokedy chckhd qokain chedy qotedy dy<-><figure>
+Translation:   The schedy and the keedy and the the specific component/part of and the [ch]-chedy and the [d]-subtle property/emanation the specific qotedy relates to the [CH]-chckhd the specific Action/Manifestation.
+--------------------------------------------------------------------------------
+--- Paragraph 8 (Line 2148) ---
+Original:      dshedy deedy qokeedy otedy otal tedy otey oloiin<-><figure>
+Translation:   [Fragment: The dshedy and the deedy and the the specific qokeedy and the the active/heated otedy and the the active/heated igneous/luminous quality tedy and the potency/danger (mars) the active/heated otey]
+--------------------------------------------------------------------------------
+--- Paragraph 9 (Line 2149) ---
+Original:      qoky okeedy sheety qoteedy otey shckhedy sokol or<-><figure>
+Translation:   [Fragment: The the current-state okeedy and the the prepared sheety and the the specific qoteedy and the the active/heated otey and the [sok]-potency/danger (mars), cycle/cosmos the prepared shckhedy]
+--------------------------------------------------------------------------------
+--- Paragraph 10 (Line 2150) ---
+Original:      dor shekedy qokol kechdy otedy ol tedy chckhedy
+Translation:   [Fragment: The [d]-cycle/cosmos the prepared structure/node and the the specific qokol kechdy and the the active/heated otedy and the potency/danger (mars) tedy and the [ch]-chckhedy]
+--------------------------------------------------------------------------------
+--- Paragraph 11 (Line 2151) ---
+Original:      qokedy ol kedy qokain okedy kedy tol dy qoteedy dy<-><figure>
+Translation:   The the specific component/part of and the potency/danger (mars) component/part of and the the current-state okedy and the component/part of and the [t]-potency/danger (mars), [d]-subtle property/emanation the specific qoteedy is defined as the the specific Action/Manifestation.
+--------------------------------------------------------------------------------
+--- Paragraph 12 (Line 2152) ---
+Original:      sor checkhy or chckhdy dol kedy qokededy qokan ol<-><figure>
+Translation:   The [s]-cycle/cosmos [ch]-checkhy and the cycle/cosmos [ch]-internal structure and the [d]-potency/danger (mars) component/part of and the the specific qokededy relates to the Potency/Danger (Mars) the specific Action/Manifestation.
+--------------------------------------------------------------------------------
+--- Paragraph 13 (Line 2153) ---
+Original:      dchckhedy qokchdy qokedy okedy dal or okeed olkain<-><figure>
+Translation:   [Fragment: The dchckhedy and the the specific structuring principle (saturn) and the the specific component/part of and the [d]-igneous/luminous quality, cycle/cosmos, the current-state okeed, [ol]-vital principle (specific) the current-state okedy]
+--------------------------------------------------------------------------------
+--- Paragraph 14 (Line 2154) ---
+Original:      qokol oted okain ched or alory<-><figure>
+Translation:   [Fragment: The the specific qokol, heat/energy/active principle, substance (generic), cycle/cosmos, igneous/luminous quality the current-state okain]
+--------------------------------------------------------------------------------
+--- Paragraph 15 (Line 2155) ---
+Original:      soiin kar kedy pchey tchdoltdy<-><figure>
+Translation:   The [k]-quality/property/aspect component/part of and the material form process/action relates to the soiin.
+--------------------------------------------------------------------------------
+--- Paragraph 16 (Line 2156) ---
+Original:      ol chedy qokain dar ar okain<-><figure>
+Translation:   The potency/danger (mars) [ch]-chedy relates to the [D]-Quality/Property/Aspect, Quality/Property/Aspect, the current-state okain<-><figure> the specific Action/Manifestation.
+--------------------------------------------------------------------------------
+--- Paragraph 17 (Line 2157) ---
+Original:      y ches aiin okeedy qokain chl<-><figure>
+Translation:   The the current-state okeedy relates to the Subtle Property/Emanation, [CH]-ches aiin, the [CH]-chl<-><figure> the specific Action/Manifestation.
+--------------------------------------------------------------------------------
+--- Paragraph 18 (Line 2158) ---
+Original:      sol shedy dal shdy qokychdy
+Translation:   [Fragment: The [s]-potency/danger (mars) the prepared shedy and the [d]-igneous/luminous quality the specific qokychdy]
+--------------------------------------------------------------------------------
+--- Paragraph 19 (Line 2159) ---
+Original:      qchedy qokain cheeky lokeedy<-><figure>
+Translation:   The qchedy and the [lo]-component/part of [ch]-cheeky relates to the the specific Action/Manifestation.
+--------------------------------------------------------------------------------
+--- Paragraph 20 (Line 2160) ---
+Original:      yched qokain daiin chckhdy lr<-><figure>
+Translation:   The [ch]-internal structure relates to the [Y]-Substance (Generic) the specific Action/Manifestation, the daiin.
+--------------------------------------------------------------------------------
+--- Paragraph 21 (Line 2161) ---
+Original:      sain sheor ol kchdy roiin okeedy<-><figure>
+Translation:   The the prepared sheor, potency/danger (mars) structuring principle (saturn) relates to the sain, the the current-state okeedy<-><figure> roiin.
+--------------------------------------------------------------------------------
+--- Paragraph 22 (Line 2162) ---
+Original:      qokeedy kedy qokeey qokedy olol<-><figure>
+Translation:   [Fragment: The the specific qokeedy and the component/part of and the the specific component/part of and the potency/danger (mars) the specific component/part of]
+--------------------------------------------------------------------------------
+--- Paragraph 23 (Line 2163) ---
+Original:      sokeedy keol loroin olkeey raiin<-><figure>
+Translation:   The sokeedy and the [r]-vital principle (jupiter) olkeey relates to the [K]-Celestial Quality loroin.
+--------------------------------------------------------------------------------
+--- Paragraph 24 (Line 2164) ---
+Original:      sol shey kary or csedy qeedar ain aol<-><figure>
+Translation:   The [s]-potency/danger (mars) the prepared shey and the kary and the cycle/cosmos csedy relates to the [QEED]-Quality/Property/Aspect, [A]-Potency/Danger (Mars) ain.
+--------------------------------------------------------------------------------
+--- Paragraph 25 (Line 2165) ---
+Original:      daiin chckhal daiil aldy<$>
+Translation:   [Fragment: The [ch]-chckhal, [d]-vital principle (jupiter), igneous/luminous quality daiin]
+--------------------------------------------------------------------------------
+--- Paragraph 26 (Line 2166) ---
+Original:      porain ol qokeedy kchol tchal olkee yfchey ofchedy taly<-><figure>
+Translation:   The potency/danger (mars) the specific qokeedy and the structuring principle (saturn), material form, [ol]-component/part of yfchey and the [t]-igneous/luminous quality ofchedy relates to the porain.
+--------------------------------------------------------------------------------
+--- Paragraph 27 (Line 2167) ---
+Original:      s sheky ol kedy chckhy dain oty qokor oky dain chy ol<-><figure>
+Translation:   The the prepared group/set and the potency/danger (mars) component/part of and the [ch]-internal structure and the heat/energy/active principle and the the specific qokor oky and the potency/danger (mars) chy is the Vital Principle (Essence of), the Vital Principle (Essence of).
+--------------------------------------------------------------------------------
+--- Paragraph 28 (Line 2168) ---
+Original:      qokeedy qokey daiin olkain dal chedy ololdal chchty tedy<-><figure>
+Translation:   The the specific qokeedy and the [d]-igneous/luminous quality [ch]-chedy and the [olold]-igneous/luminous quality [ch]-chchty is fixed in the daiin, the olkain.
+--------------------------------------------------------------------------------
+--- Paragraph 29 (Line 2169) ---
+Original:      solkeedy sheckhy qokedy otal shedy otar olchedy cthdy<-><figure>
+Translation:   [Fragment: The solkeedy and the the prepared sheckhy and the the specific component/part of and the the active/heated igneous/luminous quality the prepared shedy and the heat/energy/active principle, body/primordial matter olchedy]
+--------------------------------------------------------------------------------
+--- Paragraph 30 (Line 2170) ---
+Original:      qokedy ckhdy qokain chedy dalky lkain ykeedy okaly dy<-><figure>
+Translation:   The the specific component/part of and the internal structure and the [ch]-chedy and the dalky and the ykeedy and the [d]-subtle property/emanation the current-state igneous/luminous quality relates to the the specific Action/Manifestation, the lkain.
+--------------------------------------------------------------------------------
+--- Paragraph 31 (Line 2171) ---
+Original:      ytedy daiin ykedy yolsheey qokchy okal ol keedy dyky<-><figure>
+Translation:   The ytedy and the ykedy and the yolsheey and the the specific structuring principle (saturn) and the the current-state igneous/luminous quality, potency/danger (mars), [d]-complex root/rhizome keedy relates to the daiin.
+--------------------------------------------------------------------------------
+--- Paragraph 32 (Line 2172) ---
+Original:      dshedy qokeedy qopchedy qokaly dar okaiin okeeal am<-><figure>
+Translation:   The dshedy and the the specific qokeedy and the the specific product/result and the the specific qokaly relates to the [D]-Quality/Property/Aspect, the current-state okeeal the current-state okaiin.
+--------------------------------------------------------------------------------
+--- Paragraph 33 (Line 2173) ---
+Original:      y sain checkhy qokain cheeky daiin daiin ytees oly<-><figure>
+Translation:   The [ch]-checkhy and the [ch]-cheeky relates to the Subtle Property/Emanation sain, the the specific Action/Manifestation, the Subtle Property/Emanation, Potency/Danger (Mars) (Many/Sequential) daiin.
+--------------------------------------------------------------------------------
+--- Paragraph 34 (Line 2174) ---
+Original:      qotchedy lchedy lchedy kedy qol saiin ckhain or<-><figure>
+Translation:   The the specific qotchedy and the (many/sequential) type of astral influence and the component/part of relates to the [Q]-Potency/Danger (Mars) saiin, the Cycle/Cosmos ckhain.
+--------------------------------------------------------------------------------
+--- Paragraph 35 (Line 2175) ---
+Original:      osal ol s aiin shes aiin oly
+Translation:   The potency/danger (mars) is the [OS]-Igneous/Luminous Quality, Potency/Danger (Mars) aiin, the the prepared shes aiin.
+--------------------------------------------------------------------------------
+--- Paragraph 36 (Line 2176) ---
+Original:      sar aiin oteedy ol aiin chedy<-><figure>
+Translation:   The the active/heated oteedy relates to the [S]-Quality/Property/Aspect aiin, the Potency/Danger (Mars), [CH]-chedy<-><figure> aiin.
+--------------------------------------------------------------------------------
+--- Paragraph 37 (Line 2177) ---
+Original:      qotaiin qokaiin okedy lkeedy<-><figure>
+Translation:   The [l]-component/part of the current-state okedy relates to the the specific Balance/Order, the the specific Vital Principle (Specific).
+--------------------------------------------------------------------------------
+--- Paragraph 38 (Line 2178) ---
+Original:      shedy qol shedy qokaiin drol<-><figure>
+Translation:   The the prepared shedy and the [q]-potency/danger (mars) the prepared shedy relates to the [D]-Essence/Distillate (Mercury) the specific Vital Principle (Specific).
+--------------------------------------------------------------------------------
+--- Paragraph 39 (Line 2179) ---
+Original:      ykain chdar chedy qokain dy<-><figure>
+Translation:   The [ch]-chdar [ch]-chedy relates to the ykain, the [D]-Subtle Property/Emanation the specific Action/Manifestation.
+--------------------------------------------------------------------------------
+--- Paragraph 40 (Line 2180) ---
+Original:      dain chfaiin opaly kotaly<-><figure>
+Translation:   The [kot]-igneous/luminous quality opaly relates to the Vital Principle (Essence of), the [CH]-chfaiin.
+--------------------------------------------------------------------------------
+--- Paragraph 41 (Line 2181) ---
+Original:      lchedy pchedy qokaiin dar<$>
+Translation:   The type of astral influence and the product/result relates to the [D]-Quality/Property/Aspect the specific Vital Principle (Specific).
+--------------------------------------------------------------------------------
+--- Paragraph 42 (Line 2182) ---
+Original:      okchdldlo
+Translation:   [Fragment: the current-state okchdldlo]
+--------------------------------------------------------------------------------
+--- Paragraph 43 (Line 2183) ---
+Original:      okchdy
+Translation:   [Fragment: The the current-state okchdy]
+--------------------------------------------------------------------------------
+--- Paragraph 44 (Line 2184) ---
+Original:      daraloikhy
+Translation:   [Fragment: The daraloikhy]
+--------------------------------------------------------------------------------
+--- Paragraph 45 (Line 2185) ---
+Original:      dchedaly
+Translation:   [Fragment: The dchedaly]
+--------------------------------------------------------------------------------
+--- Paragraph 46 (Line 2186) ---
+Original:      otasodlory<-><stream>orory
+Translation:   [Fragment: The the active/heated otasodlory<-><stream>orory]
+--------------------------------------------------------------------------------
+--- Paragraph 47 (Line 2187) ---
+Original:      okaral
+Translation:   [Fragment: the current-state okaral]
+--------------------------------------------------------------------------------

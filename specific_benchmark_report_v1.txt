@@ -1,0 +1,458 @@
+================================================================================
+       SPECIFIC IATROCHEMICAL BENCHMARK REPORT (v1)
+================================================================================
+
+Scanning file: 'voynich_full_translation_v3_IMPROVED.txt'
+Looking for paragraphs matching signatures derived from Grok's historical context.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 2 ---
+================================================================================
+Original Cleaned: sory ckhar or y kair chtaiin shar are cthar cthar dan
+Translation:      The sor relates to the Internal Structure, Cycle/Cosmos, Subtle Property/Emanation, Vital Principle (Specific) [CH]-Balance/Order, the the prepared Quality/Property/Aspect, Quality/Property/Aspect, (Many/Sequential) Body/Primordial Matter Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 5 ---
+================================================================================
+Original Cleaned: dair y chear cthaiin cphar cfhaiin
+Translation:      [Object focus: the Vital Principle (Essence of), Subtle Property/Emanation, [CH]-ear cthai, the [CPH]-Quality/Property/Aspect cfhai]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 93 ---
+================================================================================
+Original Cleaned: dain sheam yteam<$>
+Translation:      [Object focus: the Vital Principle (Essence of), the Subtle Property/Emanation the prepared ea]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 114 ---
+================================================================================
+Original Cleaned: olaen chor cthol sho otor cthory<-><plant>
+Translation:      [Object focus: the Substance (Specific), Body/Primordial Matter, the prepared o, Heat/Energy/Active Principle, [Sequence: cthory<-><plant>] olae]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 114 ---
+================================================================================
+Original Cleaned: olaen chor cthol sho otor cthory<-><plant>
+Translation:      [Object focus: the Substance (Specific), Body/Primordial Matter, the prepared o, Heat/Energy/Active Principle, [Sequence: cthory<-><plant>] olae]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 147 ---
+================================================================================
+Original Cleaned: ysho taiin y kaiim<$><plant>
+Translation:      [Object focus: the Subtle Property/Emanation (x2), [K]-Vital Principle (Jupiter) Balance/Order]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 209 ---
+================================================================================
+Original Cleaned: cthod soocth<-><plant>sol shol otol chol opcheaiin opydaiin saiin
+Translation:      [Object focus: the Body/Primordial Matter, [Sequence: soocth<-><plant>sol], the prepared Potency/Danger (Mars), Heat/Energy/Active Principle, Substance (Specific) opcheai, the opydai, the sai]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 209 ---
+================================================================================
+Original Cleaned: cthod soocth<-><plant>sol shol otol chol opcheaiin opydaiin saiin
+Translation:      [Object focus: the Body/Primordial Matter, [Sequence: soocth<-><plant>sol], the prepared Potency/Danger (Mars), Heat/Energy/Active Principle, Substance (Specific) opcheai, the opydai, the sai]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 274 ---
+================================================================================
+Original Cleaned: poldchody shcphy shordy qoty<-><plant>shol cphar dan y
+Translation:      The poldcho and the the prepared cph and the the prepared cycle/cosmos relates to the [Sequence: qoty<-><plant>shol], [CPH]-Quality/Property/Aspect, Subtle Property/Emanation Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 297 ---
+================================================================================
+Original Cleaned: otchy daiin y dain ykol<-><plant>okchy okald d<-><plant>ytaiin
+Translation:      The the active/heated ch relates to the dai, the Subtle Property/Emanation, [Sequence: ykol<-><plant>okchy], the current-state ald, [Sequence: d<-><plant>ytaiin] Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 422 ---
+================================================================================
+Original Cleaned: or shaiin cthar cthal okal dar<$>
+Translation:      [Object focus: the Cycle/Cosmos, Body/Primordial Matter (x2), the current-state Igneous/Luminous Quality, [D]-Quality/Property/Aspect the prepared ai]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 422 ---
+================================================================================
+Original Cleaned: or shaiin cthar cthal okal dar<$>
+Translation:      [Object focus: the Cycle/Cosmos, Body/Primordial Matter (x2), the current-state Igneous/Luminous Quality, [D]-Quality/Property/Aspect the prepared ai]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 556 ---
+================================================================================
+Original Cleaned: olaiior oloro eeeoly<$><plant>
+Translation:      [Concepts: [OL]-Vital Principle (Jupiter), [OLO]-Essence/Distillate (Mercury), [EE]-Celestial Quality]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 761 ---
+================================================================================
+Original Cleaned: okchan chol shal dchcthy<$><plant>
+Translation:      [Object focus: the Substance (Specific), the prepared Igneous/Luminous Quality, [DCH]-Body/Primordial Matter the current-state cha]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 761 ---
+================================================================================
+Original Cleaned: okchan chol shal dchcthy<$><plant>
+Translation:      [Object focus: the Substance (Specific), the prepared Igneous/Luminous Quality, [DCH]-Body/Primordial Matter the current-state cha]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 861 ---
+================================================================================
+Original Cleaned: <plant>daiin cthor daiin dal dys
+Translation:      [Object focus: the <plant>dai, the Body/Primordial Matter, [D]-Igneous/Luminous Quality, [D]-Subtle Property/Emanation dai]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 861 ---
+================================================================================
+Original Cleaned: <plant>daiin cthor daiin dal dys
+Translation:      [Object focus: the <plant>dai, the Body/Primordial Matter, [D]-Igneous/Luminous Quality, [D]-Subtle Property/Emanation dai]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 903 ---
+================================================================================
+Original Cleaned: yto chol daiin<$>
+Translation:      [Concepts: Subtle Property/Emanation, Substance (Specific), [D]-Vital Principle (Jupiter)]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 1006 ---
+================================================================================
+Original Cleaned: choty dol ksheo cthor otol cthol chol<-><plant>shol dain
+Translation:      The [ch]-heat/energy/active principle relates to the [D]-Potency/Danger (Mars), [K]-Substance (Prepared), Body/Primordial Matter (x2), Heat/Energy/Active Principle, [Sequence: chol<-><plant>shol] Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 1006 ---
+================================================================================
+Original Cleaned: choty dol ksheo cthor otol cthol chol<-><plant>shol dain
+Translation:      The [ch]-heat/energy/active principle relates to the [D]-Potency/Danger (Mars), [K]-Substance (Prepared), Body/Primordial Matter (x2), Heat/Energy/Active Principle, [Sequence: chol<-><plant>shol] Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 1050 ---
+================================================================================
+Original Cleaned: pdsairy dalteoshy da ly sheet or arodl lkeo raraiin otedyo poldy
+Translation:      The pdsair and the dalteosh and the the active/heated edyo pol is a type of the Vital Principle (Essence of), the prepared eet, Cycle/Cosmos, [A]-Essence/Distillate (Mercury), [LK]-Celestial Quality rarai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 1082 ---
+================================================================================
+Original Cleaned: tol dair ytaiin dol y kchain otykeey otchol ytaiin dy
+Translation:      The the active/heated yke is defined as the [T]-Potency/Danger (Mars), Vital Principle (Essence of) ytai, the [D]-Potency/Danger (Mars), Subtle Property/Emanation kcha, the the active/heated chol ytai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 1337 ---
+================================================================================
+Original Cleaned: otol chol ctheees os orol chod qoty<$><plant>
+Translation:      [Concepts: Heat/Energy/Active Principle, Substance (Specific), Body/Primordial Matter, [O]-Essence/Distillate (Mercury), [CH]-od, the specific ty<$><plant>]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 1337 ---
+================================================================================
+Original Cleaned: otol chol ctheees os orol chod qoty<$><plant>
+Translation:      [Concepts: Heat/Energy/Active Principle, Substance (Specific), Body/Primordial Matter, [O]-Essence/Distillate (Mercury), [CH]-od, the specific ty<$><plant>]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 1382 ---
+================================================================================
+Original Cleaned: daiin or orol chas or kaiin okchd ykar odaiin chdolaiin
+Translation:      [Object focus: the dai, the Cycle/Cosmos (x2), [O]-Essence/Distillate (Mercury), [CH]-as Vital Principle (Specific), the the current-state chd, Complex Root/Rhizome odai, the [CH]-dolai]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 1453 ---
+================================================================================
+Original Cleaned: daiin otey ofchey shes o d okchod o l okeeol dkedar of aros s y chedaiin k echty x doedal vo tchor cs tedas dal ? daiin aiin otyl daro v
+Translation:      The the active/heated e and the ofch and the echt is the dai, the the prepared es, o (x2), the current-state chod, the current-state eeol, [DKED]-Quality/Property/Aspect, [A]-Essence/Distillate (Mercury), Subtle Property/Emanation [CH]-edai, the x, [DOED]-Igneous/Luminous Quality, vo, [T]-Substance (Specific), [TE]-Vital Principle (Essence of), [D]-Igneous/Luminous Quality, ? dai, the the active/heated yl, [DA]-Essence/Distillate (Mercury), v ai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 1453 ---
+================================================================================
+Original Cleaned: daiin otey ofchey shes o d okchod o l okeeol dkedar of aros s y chedaiin k echty x doedal vo tchor cs tedas dal ? daiin aiin otyl daro v
+Translation:      The the active/heated e and the ofch and the echt is the dai, the the prepared es, o (x2), the current-state chod, the current-state eeol, [DKED]-Quality/Property/Aspect, [A]-Essence/Distillate (Mercury), Subtle Property/Emanation [CH]-edai, the x, [DOED]-Igneous/Luminous Quality, vo, [T]-Substance (Specific), [TE]-Vital Principle (Essence of), [D]-Igneous/Luminous Quality, ? dai, the the active/heated yl, [DA]-Essence/Distillate (Mercury), v ai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 1507 ---
+================================================================================
+Original Cleaned: or aiin okair y dairal qokal qokaiin qokaly okar olkaly okal
+Translation:      The the specific kal and the the current-state quality/property/aspect, the current-state igneous/luminous quality olkal relates to the Cycle/Cosmos ai, the the current-state air, Subtle Property/Emanation, [DAIR]-Igneous/Luminous Quality, the specific kal the specific Vital Principle (Specific).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 1508 ---
+================================================================================
+Original Cleaned: faiir ofaror qotaiin sholy qotaiin yqokaly okal qokaly okaly
+Translation:      The the prepared potency/danger (mars) and the yqokal and the the current-state igneous/luminous quality the specific kal and the the current-state igneous/luminous quality relates to the [F]-Vital Principle (Jupiter), [OFA]-Essence/Distillate (Mercury) the specific Balance/Order, the the specific Balance/Order.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 1852 ---
+================================================================================
+Original Cleaned: dain ol sheol dain ol qoly<-><figure>dar ady<$>
+Translation:      [Object focus: the Vital Principle (Essence of), the Potency/Danger (Mars) (x2), the prepared eol, [Sequence: qoly<-><figure>dar], [AD]-Subtle Property/Emanation Vital Principle (Essence of)]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 1999 ---
+================================================================================
+Original Cleaned: fchedy ch sal dol shdy olkedy qokaiin otal rory<$>
+Translation:      The fche and the ch, [s]-igneous/luminous quality, [d]-potency/danger (mars) olke is defined as the the active/heated Igneous/Luminous Quality, Essence/Distillate (Mercury) the specific Vital Principle (Specific).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 2237 ---
+================================================================================
+Original Cleaned: qokaiin shy lsheey ls air or aror otaiin ches olol ol
+Translation:      The sh and the class of emanation is the the specific Vital Principle (Specific), the Cycle/Cosmos, [A]-Essence/Distillate (Mercury), [CH]-es, Potency/Danger (Mars) (x2) the active/heated ai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 2285 ---
+================================================================================
+Original Cleaned: dshey qokal sheedy sheky orain otshdy dain cther aror
+Translation:      The dsh and the the specific kal the prepared ee and the the prepared group/set and the the active/heated sh relates to the ora, the Body/Primordial Matter, [A]-Essence/Distillate (Mercury) Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 2436 ---
+================================================================================
+Original Cleaned: qokedy okaiin kair okal sar ol kain olkain al ol rol dl
+Translation:      The the specific component/part of is a type of the the current-state ai, the Vital Principle (Specific), the current-state Igneous/Luminous Quality, [S]-Quality/Property/Aspect, Potency/Danger (Mars) Action/Manifestation, the Igneous/Luminous Quality, Potency/Danger (Mars), Essence/Distillate (Mercury) olka.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 2472 ---
+================================================================================
+Original Cleaned: orol dain
+Translation:      [Object focus: the [O]-Essence/Distillate (Mercury) Vital Principle (Essence of)]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 2478 ---
+================================================================================
+Original Cleaned: qokeedy lchedy qokeedy cheey ror ol saiin chey raity dam
+Translation:      The the specific kee and the type of astral influence and the the specific kee and the [ch]-e and the [ch]-e and the rait relates to the Essence/Distillate (Mercury), Potency/Danger (Mars) sai, the Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 2565 ---
+================================================================================
+Original Cleaned: olkeey rchs cheen ols aiin skal dain cthal saiin chky lal ram
+Translation:      The olke is fixed in the [CH]-ee, the Potency/Danger (Mars) ai, the [SK]-Igneous/Luminous Quality Vital Principle (Essence of), the Body/Primordial Matter sai, the [L]-Igneous/Luminous Quality Ingredient.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 2565 ---
+================================================================================
+Original Cleaned: olkeey rchs cheen ols aiin skal dain cthal saiin chky lal ram
+Translation:      The olke is fixed in the [CH]-ee, the Potency/Danger (Mars) ai, the [SK]-Igneous/Luminous Quality Vital Principle (Essence of), the Body/Primordial Matter sai, the [L]-Igneous/Luminous Quality Ingredient.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 2670 ---
+================================================================================
+Original Cleaned: pchedy qotchedy otaiiin chcthy shedy otedy qoty qotedy ol okedy otedy rom
+Translation:      The product/result and the the specific tche and the [ch]-body/primordial matter and the the prepared e and the the active/heated e and the the specific te and the potency/danger (mars) the current-state e and the the active/heated e relates to the the active/heated Vital Principle (Jupiter), the Essence/Distillate (Mercury).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 2828 ---
+================================================================================
+Original Cleaned: dairo dain ykeodain dain shedy qoteo lchdy qokeor ain
+Translation:      The the prepared e and the the specific harmonic principle (venus) lch relates to the [DAI]-Essence/Distillate (Mercury) Vital Principle (Essence of), the ykeoda, the Vital Principle (Essence of), the the specific keor a.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 2922 ---
+================================================================================
+Original Cleaned: ctheor oral chor ckhey<-><plant>
+Translation:      [Concepts: Body/Primordial Matter, [OR]-Igneous/Luminous Quality, Substance (Specific), [Sequence: ckhey<-><plant>]]
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 2922 ---
+================================================================================
+Original Cleaned: ctheor oral chor ckhey<-><plant>
+Translation:      [Concepts: Body/Primordial Matter, [OR]-Igneous/Luminous Quality, Substance (Specific), [Sequence: ckhey<-><plant>]]
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 3101 ---
+================================================================================
+Original Cleaned: ycheor oeo dain cheokal ykhody cheeods oraiin qoeey cthey???<-><fold>???eocthy dain chedo dydy<$>
+Translation:      The [ch]-eokal ykho and the the specific e relates to the [Y]-Substance (Generic), [O]-Celestial Quality Vital Principle (Essence of), the [CH]-eeods orai, the [Sequence: cthey???<-><fold>???eocthy], [CH]-edo, [D]-Subtle Property/Emanation Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 3107 ---
+================================================================================
+Original Cleaned: sol chol choly okeey dal qol shckheol chol cthear keey???<-><fold>???cheeo ol chs <blot>oraiin qokeeey saiir qodaiin cheol qokeey daiin cheodam<$>
+Translation:      The [s]-potency/danger (mars), substance (specific) [ch]-potency/danger (mars) and the the current-state e and the the specific kee and the [ch]-eol the specific component/part of is the [D]-Igneous/Luminous Quality, [Q]-Potency/Danger (Mars), the prepared ckheol, Substance (Specific), Body/Primordial Matter, [Sequence: keey???<-><fold>???cheeo], Potency/Danger (Mars) <blot>orai, the [S]-Vital Principle (Jupiter) the specific dai, the [CH]-eodam<$> dai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 3107 ---
+================================================================================
+Original Cleaned: sol chol choly okeey dal qol shckheol chol cthear keey???<-><fold>???cheeo ol chs <blot>oraiin qokeeey saiir qodaiin cheol qokeey daiin cheodam<$>
+Translation:      The [s]-potency/danger (mars), substance (specific) [ch]-potency/danger (mars) and the the current-state e and the the specific kee and the [ch]-eol the specific component/part of is the [D]-Igneous/Luminous Quality, [Q]-Potency/Danger (Mars), the prepared ckheol, Substance (Specific), Body/Primordial Matter, [Sequence: keey???<-><fold>???cheeo], Potency/Danger (Mars) <blot>orai, the [S]-Vital Principle (Jupiter) the specific dai, the [CH]-eodam<$> dai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 3330 ---
+================================================================================
+Original Cleaned: okeeodair oteey lkeey teeolteedy otokal oraiiin qokaiin ar airod
+Translation:      The the current-state eeodair the active/heated e and the lke and the teeoltee relates to the the active/heated okal oraii, the Quality/Property/Aspect, [AI]-Essence/Distillate (Mercury) the specific Vital Principle (Specific).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 3345 ---
+================================================================================
+Original Cleaned: roees aiiin ol okaiin os aiin chckhoda qoteedy ckhddl aiis opar kaiishdy
+Translation:      The [ch]-ckhoda the specific tee and the internal structure, vital principle (jupiter), [op]-quality/property/aspect kaiish is the Essence/Distillate (Mercury) Vital Principle (Jupiter), the Potency/Danger (Mars) the current-state ai, the ai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 2)
+  --- Paragraph 3360 ---
+================================================================================
+Original Cleaned: lkl sheeodees otaiin otar otal or aiin chedor alkaiin chs alkaiin ry
+Translation:      It possesses the Salt/Fixed Principle, the prepared eeodees the active/heated ai, the Heat/Energy/Active Principle, the active/heated Igneous/Luminous Quality, Cycle/Cosmos ai, the [CH]-edor alkai, the alkai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 4)
+  --- Paragraph 3360 ---
+================================================================================
+Original Cleaned: lkl sheeodees otaiin otar otal or aiin chedor alkaiin chs alkaiin ry
+Translation:      It possesses the Salt/Fixed Principle, the prepared eeodees the active/heated ai, the Heat/Energy/Active Principle, the active/heated Igneous/Luminous Quality, Cycle/Cosmos ai, the [CH]-edor alkai, the alkai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 2)
+  --- Paragraph 3368 ---
+================================================================================
+Original Cleaned: sheeo daiin chsd qokeeey dair okaiin otaiin chedaiin olkal lkl dain
+Translation:      The [ch]-sd the specific kee relates to the the prepared eeo dai, the Vital Principle (Essence of) the current-state ai, the the active/heated ai, the [CH]-edai, the [OLK]-Igneous/Luminous Quality, Salt/Fixed Principle Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 4)
+  --- Paragraph 3368 ---
+================================================================================
+Original Cleaned: sheeo daiin chsd qokeeey dair okaiin otaiin chedaiin olkal lkl dain
+Translation:      The [ch]-sd the specific kee relates to the the prepared eeo dai, the Vital Principle (Essence of) the current-state ai, the the active/heated ai, the [CH]-edai, the [OLK]-Igneous/Luminous Quality, Salt/Fixed Principle Vital Principle (Essence of).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 3380 ---
+================================================================================
+Original Cleaned: porarchy oror olkaiin shedy oteedy qotor qoteedo qoteedy dair okeedaim
+Translation:      The porarch and the the prepared e and the the active/heated ee and the the specific tor, the specific teedo the specific tee relates to the [O]-Essence/Distillate (Mercury) olkai, the Vital Principle (Essence of) the current-state eedai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 3391 ---
+================================================================================
+Original Cleaned: otchedy qokeey shosaiin qokaiin okain cholkeeey ltal olcheey qotchoraiin y
+Translation:      The the active/heated substance (generic) and the the specific component/part of and the [ch]-olkee and the [lt]-igneous/luminous quality olche relates to the the prepared osai, the the specific Vital Principle (Specific), the the current-state a, the Subtle Property/Emanation the specific tchorai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 3400 ---
+================================================================================
+Original Cleaned: okaiin ol lcho rcheo raiin qokaiin chey chokaiin chear ar ol rarolchl
+Translation:      The [ch]-e relates to the the current-state ai, the Potency/Danger (Mars), [L]-Substance (Specific), [R]-Substance (Generic) rai, the the specific Vital Principle (Specific), the [CH]-ear, Quality/Property/Aspect, Potency/Danger (Mars), [RA]-Essence/Distillate (Mercury) [CH]-okai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 3492 ---
+================================================================================
+Original Cleaned: podar aiisod qokiir otiir ofchedy qofchedy qofchol chkaiin chpaiin orol
+Translation:      The [pod]-quality/property/aspect, vital principle (jupiter), the specific kiir, the active/heated iir ofche and the the specific fche relates to the the specific fchol [CH]-Vital Principle (Specific), the [O]-Essence/Distillate (Mercury) [CH]-pai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 3502 ---
+================================================================================
+Original Cleaned: ychkl kaiin chckhy chol alkain<$>
+Translation:      The substance (specific), [al]-vital principle (specific) [ch]-internal structure relates to the Subtle Property/Emanation Vital Principle (Specific).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 3510 ---
+================================================================================
+Original Cleaned: todky chedy qockhy qokeedy qokokil y chees opal kaiin otaiin otaram
+Translation:      The todk and the [ch]-e and the the specific internal structure and the the specific kee relates to the the specific kokil, Subtle Property/Emanation, [CH]-ees, [OP]-Igneous/Luminous Quality Vital Principle (Specific), the the active/heated ai, the the active/heated Compound/Mixture.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 2)
+  --- Paragraph 3534 ---
+================================================================================
+Original Cleaned: qokain qokchey qekchdy okaiin lkl chol raiin otaiin alkaiin dal
+Translation:      The the specific structuring principle (saturn) and the qekch relates to the the specific Action/Manifestation, the the current-state ai, the Salt/Fixed Principle, Substance (Specific) rai, the the active/heated ai, the [D]-Igneous/Luminous Quality alkai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 4)
+  --- Paragraph 3534 ---
+================================================================================
+Original Cleaned: qokain qokchey qekchdy okaiin lkl chol raiin otaiin alkaiin dal
+Translation:      The the specific structuring principle (saturn) and the qekch relates to the the specific Action/Manifestation, the the current-state ai, the Salt/Fixed Principle, Substance (Specific) rai, the the active/heated ai, the [D]-Igneous/Luminous Quality alkai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 1)
+  --- Paragraph 3640 ---
+================================================================================
+Original Cleaned: sheeol okeey kaiin okaiin ol lchey ctheor aiin cheey qokeey qokeeaiin al
+Translation:      The the prepared eeol the current-state e and the potency/danger (mars) lch and the [ch]-e and the the specific component/part of relates to the Vital Principle (Specific), the the current-state ai, the Body/Primordial Matter ai, the Igneous/Luminous Quality the specific keeai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE DETAILED CALCINATION (Type 3)
+  --- Paragraph 3640 ---
+================================================================================
+Original Cleaned: sheeol okeey kaiin okaiin ol lchey ctheor aiin cheey qokeey qokeeaiin al
+Translation:      The the prepared eeol the current-state e and the potency/danger (mars) lch and the [ch]-e and the the specific component/part of relates to the Vital Principle (Specific), the the current-state ai, the Body/Primordial Matter ai, the Igneous/Luminous Quality the specific keeai.
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 1)
+  --- Paragraph 3937 ---
+================================================================================
+Original Cleaned: polaiin otar qotain chtol tarol cheol kaiin chpkcheos okar aithchr lo
+Translation:      It is a type of the polai, the Heat/Energy/Active Principle the specific ta, the [CH]-tol, [TA]-Essence/Distillate (Mercury), [CH]-eol, [CH]-pkcheos, the current-state Quality/Property/Aspect Vital Principle (Specific).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 3980 ---
+================================================================================
+Original Cleaned: qoedy otair otar okod chodar y dal oeedy qokolkchdy dalol y qokaiin ched al
+Translation:      The the specific e and the the active/heated air, heat/energy/active principle, the current-state od, [ch]-odar, subtle property/emanation, [d]-igneous/luminous quality oee and the the specific kolkch relates to the [D]-Igneous/Luminous Quality, Subtle Property/Emanation, Substance (Generic), Igneous/Luminous Quality the specific Vital Principle (Specific).
+
+================================================================================
+  MATCH FOUND: POSSIBLE QUINTESSENCE/SPIRITUS (Type 2)
+  --- Paragraph 4189 ---
+================================================================================
+Original Cleaned: sykar ain olkeey dain choy qokar chey dain y otan otain oly
+Translation:      The olke and the [ch]-o and the the specific kar [ch]-e and the potency/danger (mars) relates to the [S]-Complex Root/Rhizome a, the Vital Principle (Essence of), the Vital Principle (Essence of), the Subtle Property/Emanation the active/heated a, the the active/heated a.
+
+================================================================================
+Scan Complete. Found 64 potential specific benchmark matches in 4191 paragraphs.
+================================================================================
